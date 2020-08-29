@@ -1,9 +1,9 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
+import Header from '../components/Header';
 
 const About = () => {
     return ( <div>
-        <Navbar />
+        <Header />
         <h1>Ini Halaman About</h1>
     </div> );
 }
